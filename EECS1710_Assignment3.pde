@@ -53,3 +53,7 @@ void draw() {
   }
  
 }
+
+
+//Resources
+//Retrieved December 19, 2021, from https://processing.org/examples/clock.html 
